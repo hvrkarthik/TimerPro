@@ -20,7 +20,8 @@ npm install
 
 ###  Set Up Platforms
 Android
-npx react-native run-android
+npm start
+npm run android
 
 iOS (macOS only)
 cd ios && pod install && cd ..
